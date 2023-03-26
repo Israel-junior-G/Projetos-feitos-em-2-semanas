@@ -1,0 +1,72 @@
+body {padding:0;
+  height: 70ch;
+  margin-top: 250px;
+  background: linear-gradient(
+    72deg,
+    rgb(0, 229, 255) 2%,
+    rgb(255, 79, 243) 98%
+  );
+}
+.subtitulo {
+  margin-left: 25%;
+  margin-top: 20%;
+}
+h3{
+  font-size: small;
+}
+.paragrafos {
+  font-family: helvetica;
+  padding-left: 10px;
+  border: 9px;
+  border-color: rgb(255, 0, 0);
+  border-radius: 30px;
+  border-style: double;
+}
+.selecao {
+  border: 55px rgb(255, 0, 0);
+}
+#menu {
+  color: rgb(255, 255, 255);
+  background: linear-gradient(
+    72deg,
+    rgba(251, 93, 233, 0.836) 2%,
+    rgba(0, 213, 255, 0.849) 98%
+  );
+  position: fixed;
+  border-radius: 20px;
+  top: 0;
+  left: 2ch;
+  height: 90px;
+  width: 100%;
+}
+.cont {
+  position: fixed;
+  margin-top: -235px;
+  margin-left: 152px;
+}
+.ini {
+  position: fixed;
+  margin-top: -235px;
+  margin-left: 20px;
+}
+.gal {
+  position: fixed;
+  margin-top: -235px;
+  margin-left: 80px;
+}
+.bg {
+  border-radius: 20px;
+  width: 180px;
+  height: 120px;
+  margin-left: 150px;
+  position: absolute;
+  top: -10px;
+}
+#info {
+  margin-top: -2%;
+}
+.titulo1 {
+text-align: center;
+  font-family: Georgia;
+  font-size: 47px;
+}
